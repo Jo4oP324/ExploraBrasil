@@ -12,7 +12,7 @@ Aplicativo criado no âmbito do Projeto Integrador das instituições SESI e SEN
 
 ## Demonstração / Screenshots
 
-Tela inicial do ExploraBrasil  
+Tela inicial  
 ![Tela Inicial](images/tela-inicial.png)
 
 Quiz  
@@ -21,5 +21,5 @@ Quiz
 GuIA
 ![GuIA](images/guia.png)
 
-Sobre o projeto
-![Sobre o projeto](images/sobre.png)
+Sobre
+![Sobre](images/sobre.png)
