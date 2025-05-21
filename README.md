@@ -1,5 +1,11 @@
 # ExploraBrasil
 
-O aplicativo Explora Brasil nasceu de uma iniciativa conjunta entre alunos e professores do SESI 144 e do SENAI 794, ambos localizados na cidade de Ourinhos, no interior do estado de São Paulo. 
+## Sobre o aplicativo
 
-Essa parceria educacional teve como propósito unir tecnologia, conhecimento e práticas pedagógicas em um projeto inovador que proporciona uma imersão nas riquezas do nosso país.
+Aplicativo criado no âmbito do Projeto Integrador das instituições SESI e SENAI de Ourinhos (SP), voltado para oferecer uma experiência educativa e interativa. Disponível exclusivamente para dispositivos Android.
+
+## Tecnologias utilizadas
+
+- Linguagens: HTML, CSS, TypeScript  
+- Frameworks: Ionic, Angular  
+- Outras ferramentas: Chart.js, GEMINI_API, Image Map Generator
