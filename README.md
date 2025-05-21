@@ -16,6 +16,16 @@ Aplicativo criado no âmbito do Projeto Integrador das instituições SESI e SEN
 - Frameworks: Ionic, Angular  
 - Outras ferramentas: Chart.js, GEMINI_API, Image Map Generator
 
+## Instalação do Aplicativo
+
+### Etapa 1
+- Clica no explorabrasil.apk
+<img src="images/etapa1.png" />
+
+### Etapa 2
+- Após clicar, clica nos 3 pontos no canto direito e logo depois clica em Download
+<img src="images/etapa2.png" />
+
 ## Demonstração / Screenshots
 
 ### Tela Inicial  
