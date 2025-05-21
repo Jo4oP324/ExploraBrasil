@@ -18,8 +18,8 @@ Tela inicial
 Quiz  
 ![Quiz](images/quiz.png)
 
-GuIA
+GuIA  
 ![GuIA](images/guia.png)
 
-Sobre
+Sobre  
 ![Sobre](images/sobre.png)
