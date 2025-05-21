@@ -13,13 +13,13 @@ Aplicativo criado no âmbito do Projeto Integrador das instituições SESI e SEN
 ## Demonstração / Screenshots
 
 Tela inicial  
-![Tela Inicial](images/tela-inicial.png){width=300px}
+![Tela Inicial](images/tela-inicial.png)
 
 Quiz  
-![Quiz](images/quiz.png){width=300px}
+![Quiz](images/quiz.png)
 
 GuIA
-![GuIA](images/guia.png){width=300px}
+![GuIA](images/guia.png)
 
 Sobre
-![Sobre](images/sobre.png){width=300px}
+![Sobre](images/sobre.png)
