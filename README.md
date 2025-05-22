@@ -43,7 +43,7 @@ Perfect for middle and high school students eager to explore Brazil dynamically.
 
 ---
 
-### GuIA
+### 💬 GuIA Intelligence Assistant
 
 - Simple chatbot powered by the Gemini API <a href="https://developers.google.com" target="_blank">(Google for Developers)</a>  
 - Send text questions or upload files for quick, accurate responses. 
@@ -52,7 +52,7 @@ Perfect for middle and high school students eager to explore Brazil dynamically.
 
 ---
 
-### About
+### ℹ️ About
 
 - Highlights the contributors behind ExploraBrasil.
 - Showcases the SESI and SENAI Ourinhos team driving this educational project.
@@ -68,19 +68,74 @@ Built with modern tools for a smooth, engaging experience:
 
 ---
 
-## 🚀 How to Install the Application
+## 🚀 How to Install the App
 
 Follow the steps below to install **ExploraBrasil** on your Android device:
 
-### 1️⃣ Step 1
+---
+
+### 💻 Installation via Desktop (PC or Laptop)
+
+#### 1️⃣ Step 1  
 - Click on the `explorabrasil.apk` file.  
   ![Step 1](images/etapa1.png)
 
-### 2️⃣ Step 2
-- After clicking, tap the **three dots** in the top right corner and select **Download**.  
+#### 2️⃣ Step 2  
+- After clicking, tap the **three dots** in the upper-right corner and select **Download**.  
   ![Step 2](images/etapa2.png)
 
+#### 3️⃣ Step 3  
+- After the download is complete, connect your phone or tablet to your computer via USB and transfer the APK file to a desired folder on your device.
+
+#### 4️⃣ Step 4  
+- On your phone or tablet, use a file manager to locate the transferred APK file, tap it, and follow the prompts to install.  
+  *(You may need to enable “Install from unknown sources” in your Android settings.)*
+
 ---
+
+### 📱 Direct Installation via Mobile or Tablet (Android Browser)
+
+#### 1️⃣ Step 1  
+- Click on the `explorabrasil.apk` file.  
+  ![Step 1](images/etapa1.png)
+
+#### 2️⃣ Step 2  
+- Tap the **three dots** in the upper-right corner and select **Download**.  
+  ![Step 2](images/etapa2.png)
+
+#### 3️⃣ Step 3  
+- If a security warning appears, confirm the installation.  
+  *(If necessary, enable the "Install from unknown sources" option.)*
+
+#### 4️⃣ Step 4  
+- After downloading, tap **Open** or go to your downloads folder and tap the APK to install.
+
+---
+
+### 📲 Installation via GitHub App
+
+#### 1️⃣ Step 1  
+- In the GitHub app, open the repository and tap **Code**.  
+  ![Step 1](images/etapa1(cel).png)
+
+#### 2️⃣ Step 2  
+- Tap the `explorabrasil.apk` file.  
+  ![Step 2](images/etapa2(cel).png)
+
+#### 3️⃣ Step 3  
+- If you see a message saying the file cannot be opened, tap **Open in browser**.  
+  ![Step 3](images/etapa3(cel).png)
+
+#### 4️⃣ Step 4  
+- In the browser, tap the three dots and select **Download**.  
+  ![Step 4](images/etapa4(cel).png)
+
+#### 5️⃣ Step 5  
+- If a security warning appears, confirm the installation.  
+  *(If necessary, enable the "Install from unknown sources" option.)*
+
+#### 6️⃣ Step 6  
+- After downloading, tap **Open** or go to your downloads folder and tap the APK to install.
 
 ## 📸 Demonstration
 
@@ -231,7 +286,7 @@ Ideal para estudantes do ensino fundamental e médio que querem explorar o Brasi
 
 ---
 
-### Sobre
+### ℹ️ Sobre
 
 - Apresenta os contribuidores do ExploraBrasil.
 - Destaque para o time por trás do projeto educativo.
@@ -252,6 +307,10 @@ Desenvolvido com ferramentas modernas para uma experiência fluida e envolvente:
 
 Siga os passos abaixo para instalar o ExploraBrasil no seu dispositivo Android:
 
+---
+
+### 💻 Instalação via Desktop (PC ou Notebook)
+
 ### 1️⃣ Etapa 1
 - Clique no arquivo `explorabrasil.apk`.  
   ![Etapa 1](images/etapa1.png)
@@ -260,7 +319,56 @@ Siga os passos abaixo para instalar o ExploraBrasil no seu dispositivo Android:
 - Após clicar, toque nos **três pontos** no canto superior direito e selecione **Download**.  
   ![Etapa 2](images/etapa2.png)
 
+### 3️⃣ Etapa 3
+- Após o download, conecte seu celular ou tablet ao computador via cabo USB e transfira o arquivo APK para a pasta desejada no celular.
+
+### 4️⃣ Etapa 4
+- No celular ou Tablet, localize o arquivo APK transferido com um gerenciador de arquivos, toque nele e siga os passos para instalação.
+*(Pode ser necessário ativar “Instalar de fontes desconhecidas” nas configurações do Android.)*
+
 ---
+
+## 📱 Instalação Direta pelo Celular ou Tablet (Navegador Android)
+
+### 1️⃣ Etapa 1
+- Clique no arquivo `explorabrasil.apk`.  
+  ![Etapa 1](images/etapa1.png)
+
+### 2️⃣ Etapa 2
+- Após clicar, toque nos **três pontos** no canto superior direito e selecione **Download**.  
+  ![Etapa 2](images/etapa2.png)
+
+### 3️⃣ Etapa 3
+- Se aparecer um aviso de segurança, confirme a instalação.
+*(Caso necessário, ative a opção "Permitir instalação de fontes desconhecidas".)*
+
+### 4️⃣ Etapa 4
+- Após o download, toque em Abrir ou vá até sua pasta de downloads e toque no APK para instalar.
+
+## 📲 Instalação via Aplicativo do GitHub
+
+### 1️⃣ Etapa 1
+- No app do GitHub, acesse o repositório e clique em Código.
+![Etapa 1](images/etapa1(cel).png)
+
+### 2️⃣ Etapa 2
+- Clique no arquivo `explorabrasil.apk`.
+![Etapa 2](images/etapa2(cel).png)
+
+### 3️⃣ Etapa 3
+- Se aparecer a mensagem "Não foi possível abrir o arquivo", toque em **Abrir no navegador**
+![Etapa 3](images/etapa3(cel).png)
+
+### 4️⃣ Etapa 4
+- No navegador, toque nos três pontos e selecione **Download**. 
+![Etapa 4](images/etapa4(cel).png)
+
+### 5 Etapa 5
+- Se aparecer um aviso de segurança, confirme a instalação.
+*(Caso necessário, ative a opção "Permitir instalação de fontes desconhecidas".)*
+
+### 6 Etapa 6
+- Após o download, toque em Abrir ou vá até sua pasta de downloads e toque no APK para instalar.
 
 ## 📸 Demonstração
 
